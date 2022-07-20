@@ -1,15 +1,19 @@
-### Hi there 👋
+### Hi there 👋, my name is A.S.M. Hasan Sarker
+#### I am MERN Stack Developer
+![I am MERN Stack Developer](https://scontent.fdac116-1.fna.fbcdn.net/v/t39.30808-6/277569655_3270173583210986_2254742701072840455_n.png?_nc_cat=106&ccb=1-7&_nc_sid=e3f864&_nc_ohc=HDDwj0RmKYkAX_dQGNG&_nc_ht=scontent.fdac116-1.fna&oh=00_AT96ssiF9ioWpVONCdJzIWwD_NLrGB5KFzvuCYXXgqH0-w&oe=62DBFBA5)
 
-**asmhasansarker/asmhasansarker** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Hello, I am A.S.M. Hasan Sarker. Working as a Web Developer since 2020. I have developed and designed many highly responsive web apps using advanced technologies. Adept at contributing to a highly collaborative work environment and finding solutions.
 
-Here are some ideas to get you started:
+Also, I am a competitive programmer I love to solve different kinds of problems. I know different kinds of data structures and algorithms and I like to solve programming problems in the C++ language. I like to participate in different kinds of programming contests. I have solved more than 500+ problems in different online judges. I am regularly participating in code-forces programming contests.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+I love to take a challenge and to be successful at any cost by working hard and love to learn and gain new experiences. Honesty, hard work, and passion support me to grow myself. 
+
+ Thank You.
+
+Skills: REACT / JS / NodeJs/ ExpressJs / MongoDB
+
+- 🔭 I’m currently working on this page. 
+
+
+
 
