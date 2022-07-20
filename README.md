@@ -12,7 +12,7 @@ I love to take a challenge and to be successful at any cost by working hard and 
 
 Skills: REACT / JS / NodeJs/ ExpressJs / MongoDB
 
-- 🔭 I’m currently working on this page. 
+✔ I’m currently working on MERN. 
 
 
 
